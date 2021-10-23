@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox as mb
 from random import randint
-import sqlite3
 
 
 attempt = 0
